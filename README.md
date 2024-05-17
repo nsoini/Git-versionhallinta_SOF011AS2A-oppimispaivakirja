@@ -3,9 +3,9 @@
 Tämä on Haaga-Helian kurssin Git-versionhallinta - SOF011AS2A-3001 oppimispäiväkirja. Kurssin laajuus on 1 op.
 
 Oppimispäiväkirja koostuu kolmesta eri osasta:
-1. Paikallinen git [Päiväkirja 1](../blob/main/paivakirja1.md)
-2. Hajautettu git [Päiväkirja 2](../blob/main/paivakirja2.md)
-3. Git projektissa [Päiväkirja 3](../blob/main/paivakirja3.md)
+1. Paikallinen git
+2. Hajautettu git
+3. Git projektissa
 
 *Opiskelija: Linnea Soini*
 
