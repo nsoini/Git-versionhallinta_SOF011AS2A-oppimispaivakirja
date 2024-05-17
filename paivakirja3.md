@@ -2,16 +2,18 @@
 
 __Mitä uutta opin osiossa? Miten voisin hyödyntää oppimaani käytännössä?__
 
-Kirjoita tähän vastauksesi
+Viimeisessä osiossa sain harjoitella aikasemmin opittuja taitoja. Opin että tallennuskommenttiin voi lisätä lisätietoja.
 
 __Millaiset talletuskommentit ovat mielestäsi hyödyllisiä muille projektin jäsenille? Tarkastele kurssilla laatimiasi talletuskommentteja ja arvioi niitä.__
 
-Kirjoita tähän vastauksesi
+Selkeitä, informatiivisia mutta silti lyhyitä.
 
 __Osallistut 3-4 hengen ohjelmistoprojektikurssille, ja olet saanut tehtäväksesi järjestää projektitiimin versionhallinnan. Kerro, miten tekisit sen. Laadi tiimiläisille lyhyt ohje, miten projektissa toimitaan.__
 
-Kirjoita tähän vastauksesi
+Uudet toiminnallisuudet tehdään omiin feature haaroihin. Valmiit toiminnalisuudet katselmoidaan ja hyväksytään yhdessä.
+Päähaaraan yhdistetään vain toimivia, testattuja ja hyväksyttyjä feature-haaroja. Feature haara poistetaan kun se on yhdistetty päähaaraan.
+Tallenuskommenttien kieli on englanti.
 
 __Kommenttini opintojaksosta, esim. sisällöstä, materiaalista, työmäärästä, hyödyllisyydestä, työmäärästä. Mitä toivoisit olevan enemmän, mitä vähemmän?__
 
-Kirjoita tähän vastauksesi
+Opintojakso oli sisällöltään ja materiaaliltaan todella informatiivinen. Olisin kaivannut juuri tällaistä toteutusta opintojen alkuvaiheessa, toisella tai viimestään kolmannella lukukaudella. 

@@ -15,8 +15,7 @@ Osiossa oli paljon entuudestaan tuttuja komentoja ja mikää harjoitus ei tuntun
 | git init | luo tyhjän repositorion |
 | git clone | kopioi olemassa olevan repositorion |
 | git status  | tarkista työhakemiston git-tilan |
-| git add	test.txt | lisää tiedoston seuraavaan tallennukseen
- |
+| git add	test.txt | lisää tiedoston seuraavaan tallennukseen |
 | git commit -m "first commit" | tallentaa ja kirjaa "" sisällä olevan kommentin |
 | git log | commit historia |
 | git log --stat | commit historia käänteisessä järjestyksessä lisätiedoilla |
